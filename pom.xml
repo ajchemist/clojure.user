@@ -4,18 +4,18 @@
   <packaging>jar</packaging>
   <groupId>io.github.ajchemist</groupId>
   <artifactId>clojure.user</artifactId>
-  <version>2022.82.5846</version>
+  <version>2022.174.47067</version>
   <name>clojure.user</name>
   <dependencies>
     <dependency>
       <groupId>org.clojure</groupId>
       <artifactId>clojure</artifactId>
-      <version>1.10.3</version>
+      <version>1.11.1</version>
     </dependency>
     <dependency>
       <groupId>io.github.ajchemist</groupId>
       <artifactId>runner</artifactId>
-      <version>2022.82.5598</version>
+      <version>2022.174.42159</version>
     </dependency>
     <dependency>
       <groupId>io.github.ajchemist</groupId>
