@@ -1,7 +1,7 @@
 {:paths ["src/core"]
  :deps
  {
-  io.github.ajchemist/runner                    {:mvn/version "2022.175.926"}
+  io.github.ajchemist/runner                    {:mvn/version "2022.236.13917"}
   io.github.ajchemist/telegram.clj              {:mvn/version "2022.68.16350"}
   io.github.ajchemist/user.apache.maven.alpha   {:mvn/version "2021.252.6975"}
   io.github.ajchemist/user.core.async           {:mvn/version "2022.68.22426"}
@@ -34,8 +34,11 @@
 
 
   :build
-  {:deps       {io.github.clojure/tools.build      {:git/tag "v0.8.2" :git/sha "ba1a2bf"}
-                io.github.ajchemist/user.java.time {:mvn/version "2022.75.23671"}}
+  {:deps
+   {
+    io.github.clojure/tools.build      {:git/tag "v0.8.3" :git/sha "0d20256"}
+    io.github.ajchemist/user.java.time {:mvn/version "2022.75.23671"}
+    }
    :ns-default build.package}
 
 
@@ -47,6 +50,6 @@
   :slf4j-nop
   {:extra-deps
    {
-    org.slf4j/slf4j-nop {:mvn/version "1.7.36"}
+    org.slf4j/slf4j-nop {:mvn/version "2.0.0"}
     }}
   }}
