@@ -1,7 +1,7 @@
 {:paths ["src/core"]
  :deps
  {
-  io.github.ajchemist/runner                    {:mvn/version "2022.236.13917"}
+  io.github.ajchemist/runner                    {:mvn/version "2022.237.1322"}
   io.github.ajchemist/telegram.clj              {:mvn/version "2022.68.16350"}
   io.github.ajchemist/user.apache.maven.alpha   {:mvn/version "2021.252.6975"}
   io.github.ajchemist/user.core.async           {:mvn/version "2022.68.22426"}
