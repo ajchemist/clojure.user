@@ -4,7 +4,7 @@
   <packaging>jar</packaging>
   <groupId>io.github.ajchemist</groupId>
   <artifactId>clojure.user</artifactId>
-  <version>2022.238.34687</version>
+  <version>2022.290.49855</version>
   <name>clojure.user</name>
   <dependencies>
     <dependency>
@@ -30,7 +30,7 @@
     <dependency>
       <groupId>io.github.ajchemist</groupId>
       <artifactId>telegram.clj</artifactId>
-      <version>2022.68.16350</version>
+      <version>2022.290.49671</version>
     </dependency>
     <dependency>
       <groupId>io.github.ajchemist</groupId>
@@ -55,7 +55,7 @@
     <dependency>
       <groupId>io.github.ajchemist</groupId>
       <artifactId>user.ring</artifactId>
-      <version>2022.39.7172</version>
+      <version>2022.290.21542</version>
     </dependency>
     <dependency>
       <groupId>io.github.ajchemist</groupId>
@@ -64,7 +64,7 @@
     </dependency>
   </dependencies>
   <build>
-    <sourceDirectory>src</sourceDirectory>
+    <sourceDirectory>src/core</sourceDirectory>
   </build>
   <repositories>
     <repository>
