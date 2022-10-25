@@ -9,7 +9,7 @@
   io.github.ajchemist/user.java.time            {:mvn/version "2022.75.23671"}
   io.github.ajchemist/user.java.util.concurrent {:mvn/version "2022.63.52354"}
   io.github.ajchemist/user.jsoup                {:mvn/version "2022.66.27990"}
-  io.github.ajchemist/user.ring                 {:mvn/version "2022.290.21542"}
+  io.github.ajchemist/user.ring                 {:mvn/version "2022.298.6339"}
   io.github.ajchemist/user.uri                  {:mvn/version "2022.66.6070"}
   }
 
