@@ -5,7 +5,7 @@
   io.github.ajchemist/telegram.clj              {:mvn/version "2022.290.49671"}
   io.github.ajchemist/user.apache.maven.alpha   {:mvn/version "2021.252.6975"}
   io.github.ajchemist/user.core.async           {:mvn/version "2022.68.22426"}
-  io.github.ajchemist/user.java.io              {:mvn/version "2022.299.9910"}
+  io.github.ajchemist/user.java.io              {:mvn/version "2022.299.10577"}
   io.github.ajchemist/user.java.time            {:mvn/version "2022.75.23671"}
   io.github.ajchemist/user.java.util.concurrent {:mvn/version "2022.63.52354"}
   io.github.ajchemist/user.jsoup                {:mvn/version "2022.66.27990"}
