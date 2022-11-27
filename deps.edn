@@ -2,7 +2,7 @@
  :deps
  {
   io.github.ajchemist/runner                    {:mvn/version "2022.238.33405"}
-  io.github.ajchemist/telegram.clj              {:mvn/version "2022.290.49671"}
+  io.github.ajchemist/telegram.clj              {:mvn/version "2022.331.22141"}
   io.github.ajchemist/user.apache.maven.alpha   {:mvn/version "2021.252.6975"}
   io.github.ajchemist/user.core.async           {:mvn/version "2022.68.22426"}
   io.github.ajchemist/user.java.io              {:mvn/version "2022.299.10577"}
