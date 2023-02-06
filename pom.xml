@@ -4,9 +4,14 @@
   <packaging>jar</packaging>
   <groupId>io.github.ajchemist</groupId>
   <artifactId>clojure.user</artifactId>
-  <version>2022.331.22685</version>
+  <version>2023.37.34430</version>
   <name>clojure.user</name>
   <dependencies>
+    <dependency>
+      <groupId>io.github.ajchemist</groupId>
+      <artifactId>java.util.concurrent</artifactId>
+      <version>2023.37.32116</version>
+    </dependency>
     <dependency>
       <groupId>org.clojure</groupId>
       <artifactId>clojure</artifactId>
@@ -46,11 +51,6 @@
       <groupId>io.github.ajchemist</groupId>
       <artifactId>user.core.async</artifactId>
       <version>2022.68.22426</version>
-    </dependency>
-    <dependency>
-      <groupId>io.github.ajchemist</groupId>
-      <artifactId>user.java.util.concurrent</artifactId>
-      <version>2022.63.52354</version>
     </dependency>
     <dependency>
       <groupId>io.github.ajchemist</groupId>
