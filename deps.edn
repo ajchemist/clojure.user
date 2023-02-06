@@ -1,16 +1,16 @@
 {:paths ["src/core"]
  :deps
  {
-  io.github.ajchemist/runner                    {:mvn/version "2022.238.33405"}
-  io.github.ajchemist/telegram.clj              {:mvn/version "2022.290.49671"}
-  io.github.ajchemist/user.apache.maven.alpha   {:mvn/version "2021.252.6975"}
-  io.github.ajchemist/user.core.async           {:mvn/version "2022.68.22426"}
-  io.github.ajchemist/user.java.io              {:mvn/version "2022.299.10577"}
-  io.github.ajchemist/user.java.time            {:mvn/version "2022.75.23671"}
-  io.github.ajchemist/user.java.util.concurrent {:mvn/version "2022.63.52354"}
-  io.github.ajchemist/user.jsoup                {:mvn/version "2022.66.27990"}
-  io.github.ajchemist/user.ring                 {:mvn/version "2022.298.6339"}
-  io.github.ajchemist/user.uri                  {:mvn/version "2022.66.6070"}
+  io.github.ajchemist/java.util.concurrent    {:mvn/version "2023.37.32116"}
+  io.github.ajchemist/runner                  {:mvn/version "2022.238.33405"}
+  io.github.ajchemist/telegram.clj            {:mvn/version "2022.290.49671"}
+  io.github.ajchemist/user.apache.maven.alpha {:mvn/version "2021.252.6975"}
+  io.github.ajchemist/user.core.async         {:mvn/version "2022.68.22426"}
+  io.github.ajchemist/user.java.io            {:mvn/version "2022.299.10577"}
+  io.github.ajchemist/user.java.time          {:mvn/version "2022.75.23671"}
+  io.github.ajchemist/user.jsoup              {:mvn/version "2022.66.27990"}
+  io.github.ajchemist/user.ring               {:mvn/version "2022.298.6339"}
+  io.github.ajchemist/user.uri                {:mvn/version "2022.66.6070"}
   }
 
 
@@ -36,7 +36,7 @@
   :build
   {:deps
    {
-    io.github.clojure/tools.build      {:git/tag "v0.8.3" :git/sha "0d20256"}
+    io.github.clojure/tools.build      {:git/tag "v0.9.3" :git/sha "e537cd1"}
     io.github.ajchemist/user.java.time {:mvn/version "2022.75.23671"}
     }
    :ns-default build.package}
