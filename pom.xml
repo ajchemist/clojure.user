@@ -4,7 +4,7 @@
   <packaging>jar</packaging>
   <groupId>io.github.ajchemist</groupId>
   <artifactId>clojure.user</artifactId>
-  <version>2022.299.10714</version>
+  <version>2022.331.22685</version>
   <name>clojure.user</name>
   <dependencies>
     <dependency>
@@ -30,7 +30,7 @@
     <dependency>
       <groupId>io.github.ajchemist</groupId>
       <artifactId>telegram.clj</artifactId>
-      <version>2022.290.49671</version>
+      <version>2022.331.22141</version>
     </dependency>
     <dependency>
       <groupId>io.github.ajchemist</groupId>
