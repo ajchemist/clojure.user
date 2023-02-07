@@ -9,7 +9,7 @@
   io.github.ajchemist/user.core.async         {:mvn/version "2022.68.22426"}
   io.github.ajchemist/user.java.io            {:mvn/version "2023.34.46621"}
   io.github.ajchemist/user.java.time          {:mvn/version "2022.75.23671"}
-  io.github.ajchemist/user.ring               {:mvn/version "2022.298.6339"}
+  io.github.ajchemist/user.ring               {:mvn/version "2023.24.45476"}
   io.github.ajchemist/user.uri                {:mvn/version "2022.66.6070"}
   }
 
@@ -50,6 +50,6 @@
   :slf4j-nop
   {:extra-deps
    {
-    org.slf4j/slf4j-nop {:mvn/version "2.0.0"}
+    org.slf4j/slf4j-nop {:mvn/version "2.0.6"}
     }}
   }}
